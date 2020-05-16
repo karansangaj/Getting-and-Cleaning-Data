@@ -1,8 +1,8 @@
 # Getting-and-Cleaning-Data
 
-##Files
-##1)CodeBook.md
-##2)run_analysis.R
+## Files
+## 1)CodeBook.md
+## 2)run_analysis.R
 
 1) CodeBook.md
 Describes Data set and its content
