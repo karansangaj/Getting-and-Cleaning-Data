@@ -1,13 +1,12 @@
 # Getting-and-Cleaning-Data
 
-## Files
-## 1)CodeBook.md
-## 2)run_analysis.R
+Files
 
-1) CodeBook.md
+## 1)CodeBook.md
+
 Describes Data set and its content
 
-2) run_analysis.R
+## 2)run_analysis.R
 
 Instructions
 1) Download run_analysis.R
