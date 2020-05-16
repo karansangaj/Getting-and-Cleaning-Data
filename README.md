@@ -20,4 +20,7 @@ c)Uses descriptive activity names to name the activities in the data set
 d)Appropriately labels the data set with descriptive variable names.
 e)From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+run_analysis.R script is used to perform above mentioned steps in which train and test data sets are combined as well as tidy dataset is obtained.
+
+
 ## 3) tidyData.txt
